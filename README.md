@@ -10,4 +10,4 @@ All files are provided as is for educational purposes with absolutely no warrant
 4) Open the *That Sounds Familiar* MaxMSP patch, drag and drop a MIDI file into the [dropfile] (Bach's C Major Invention provided), load a VST instrument and start remixing it using the MPC pads. After a little practice, use the *That Sounds Familiar - ScoreExport* MaxMSP patch to generate and export scores in MIDI and MusicXML format.
 
 # Notes:
-It does **NOT** like 3/8 time signatures for some reason. To fix, take the MIDI into Dorico, change the meter to 3/4, go to INSERT MODE, and CTRL+SHIFT+ALT+Right Arrow to double the note values. Set voices in PLAY mode to 1 for Up-Stem Voice 1 and 2 for Up-Stem Voice 2. Export and it **should** work. 
+It does **NOT** like 3/8 time signatures for some reason. To fix, take the MIDI into Dorico, change the meter to 3/4, go to INSERT MODE, and CTRL+SHIFT+ALT+Right Arrow to double the note values. Set voices in PLAY mode to 1 for Up-Stem Voice 1 and 2 for Up-Stem Voice 2. Export and it *should* work. 
