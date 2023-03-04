@@ -6,7 +6,7 @@ All files are provided as is for educational purposes with absolutely no warrant
 # To Use:
 1) Download the repository (click the Green Code Button, go to Local, and "Download Zip")
 2) Unzip the repository
-3) Upload the "Ben's "ThatSoundsFamiliar_Morph.senselmap" file to your Sensel Morph, or the "ThatSoundsFamiliar.quneopreset" file to your QuNeo
+3) Upload the "ThatSoundsFamiliar_Morph.senselmap" file to your Sensel Morph, or the "ThatSoundsFamiliar.quneopreset" file to your QuNeo
 4) Open the *That Sounds Familiar* MaxMSP patch, drag and drop a MIDI file into the [dropfile] (Bach's C Major Invention provided), load a VST instrument and start remixing it using the MPC pads. After a little practice, use the *That Sounds Familiar - ScoreExport* MaxMSP patch to generate and export scores in MIDI and MusicXML format.
 
 # Notes:
